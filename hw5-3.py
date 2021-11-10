@@ -8,9 +8,8 @@ calendar.TextCalendar(6).pryear(2020)
 # Question 3
 calendar.TextCalendar().prmonth(2021, 6)
 
-# Question 4
-# N/A doesnt work
+# Question 4 (error)
 
 # Question 5
 print(calendar.isleap(2021))
-# It expect a year for the argument, as a result it returns false which is a boolean value.
+# It expects a year as the argument, and a boolean value, false, as the result.
